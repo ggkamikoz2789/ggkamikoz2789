@@ -21,7 +21,8 @@ Hello! I'm **K0liZ**, a passionate developer and electric scooter technician.
 ---
 ### ⚡ Fun Facts
 - I love exploring any technologies ! 
--I made such bad code that it makes me laugh, but it's shared purely for educational purposes. 🤣
+
+- I made such bad code that it makes me laugh, but it's shared purely for educational purposes. 🤣
 
 ---
 
